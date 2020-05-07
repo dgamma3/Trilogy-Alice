@@ -3,3 +3,4 @@ Bob is awesome too
 Claire is cool
 a
 b
+c
